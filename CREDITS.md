@@ -14,3 +14,8 @@ Fotos de [Unsplash](https://unsplash.com), bajo la [Licencia Unsplash](https://u
 | `img/grupo-hiphop.webp` | https://unsplash.com/photos/womens-black-shirt-lot-GRDpPpKczdY |
 
 Logo y marca Nodo Ventas: diseño propio. Tipografías: Google Fonts (OFL).
+
+## Marca del negocio
+
+- Logo: foto de perfil pública de la página de Facebook Dance Now - Lanus (media_id 100064004225077).
+- No se encontraron fotos del salón en fuentes públicas al armar la demo; se mantienen fotos de stock del rubro.
